@@ -26,12 +26,11 @@ google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (bl
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  white:     '#fffefc'
+  navy:      '#302047'
+  orange:    '#e98c14'
+  teal:      '#37676a'
+  gray:      '#a6a6a6'
 
 kramdown:
   auto_ids:  false
