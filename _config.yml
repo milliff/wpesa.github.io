@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "WPESA - Workshop on South Asian Political Economy"
+title:       "WPESA - Workshop on the Political Economy of South Asia"
 keywords:    "Politics, South Asia, India, Pakistan, Political Economy"
 description: "An online forum for early career researchers to share work on the political economy of South Asia, broadly defined."
 source_link: "https://github.com/t413/SinglePaged"
